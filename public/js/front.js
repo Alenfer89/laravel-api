@@ -3450,8 +3450,6 @@ var render = function () {
       _vm._m(0),
       _vm._v(" "),
       _c("section", { staticClass: "col-12" }, [_c("PostList")], 1),
-      _vm._v(" "),
-      _vm._m(1),
     ]),
   ])
 }
@@ -3465,22 +3463,6 @@ var staticRenderFns = [
         _vm._v("\n                GUEST (NOT LOGGED) HOMEPAGE\n            "),
       ]),
     ])
-  },
-  function () {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c(
-      "div",
-      { staticClass: "col-6 mx-auto d-flex justify-content-between" },
-      [
-        _c("a", { attrs: { href: "/admin" } }, [
-          _c("button", { staticClass: "btn btn-primary" }, [
-            _vm._v("\n                    back\n                "),
-          ]),
-        ]),
-      ]
-    )
   },
 ]
 render._withStripped = true

@@ -9,13 +9,13 @@
             <section class="col-12">
                 <PostList />
             </section>
-            <div class="col-6 mx-auto d-flex justify-content-between">
+            <!-- <div class="col-6 mx-auto d-flex justify-content-between">
                 <a href="/admin">
                     <button class="btn btn-primary" >
                         back
                     </button> 
                 </a>
-            </div>
+            </div> -->
         </div>
     </div>
 </template>
